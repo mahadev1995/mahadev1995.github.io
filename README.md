@@ -62,7 +62,7 @@
 - Core member of the College Technical Club, Zairza - organized technical competitions like ‘Death Race 2k18’, ‘Death Race 2k17’ in the college technical fest ‘Perception’, 03/2015 – 03/2018
 - Organized and coordinated three inter-college football tournaments - ‘Engineers’ cup 2k16’, ‘Engineers’ cup 2k17’, ‘Engineers’ cup 2k18’, as a member of the college sports society, 01/2016 – 03/2018
 ## **Personal Data**
-- **Email**                         [mppanda7896@gmail.com](mailto:mppanda7896@gmail.com)
+- **Email**                           [mppanda7896@gmail.com](mailto:mppanda7896@gmail.com)
 - **LinkedIn**                      [https://www.linkedin.com/in/mahadev-prasad-panda](https://www.linkedin.com/in/mahadev-prasad-panda-ab012616b/)
 - **GitHub**                        [https://github.com/mahadev1995](https://github.com/mahadev1995)
 
