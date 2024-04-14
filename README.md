@@ -1,6 +1,5 @@
 # Deep Learning Engineer
-## Education
-
+## Education  
 **M.Sc. in Artificial Intelligence, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2021 – 04/2024**  
  - Grade: 1.4    
  - **Key Courses:** Pattern Recognition, Deep Learning, Machine Learning for Time Series, Introduction to Explainable Machine Learning, Pattern Analysis, Optimization for Engineers  
