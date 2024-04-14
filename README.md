@@ -67,13 +67,13 @@
 - Panda, Mahadev Prasad, Dario Zanca, Matteo Tiezzi, Martina Vilas, Gemma Roig, and Bjoern Eskofier. “FovEx: Model-Agnostic Foveation-based Visual Explanations for Deep Neural Networks”. European Conference on Computer Vision (ECCV) (Under Review), 2024
 
 ## **Skills**
-                                                                                                                                                 
-| ---           | ---           |                                                                                                                                                   
-|**Programming** | Python, MATLAB|
-- **Frameworks**                  PyTorch, TensorFlow, Optuna, Scikit-Learn, Matplotlib, Pandas, NumPy  
-- **Version** Control            Git
-- **Documentation**            MS Office, LaTeX      
-- **Language**                     English (Fluent), German (Basic), Odia (Mother Tongue)
+
+**Programming** 
+  - Python, MATLAB
+**Frameworks**
+  - PyTorch, TensorFlow, Optuna, Scikit-Learn, Matplotlib, Pandas, NumPy    
+**Language**
+  - English (Fluent), German (Basic), Odia (Mother Tongue)
   
 ## **Achievements and Responsibilities**
 - Won third place out of thirty participating teams in The Tensor Tournament (T3) at FAU by successfully completing 3 machine learning tasks in 6 hours, 21/01/2023
