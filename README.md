@@ -2,8 +2,11 @@
 ## Education  
 **M.Sc. in Artificial Intelligence, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2021 – 04/2024**  
 - Grade: 1.4    
-- **Key Courses:** Pattern Recognition, Deep Learning, Machine Learning for Time Series, Introduction to Explainable Machine Learning, Pattern Analysis, Optimization for Engineers    **M.Sc. in Computational Engineering, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2019 – 10/2021**  
+- **Key Courses:** Pattern Recognition, Deep Learning, Machine Learning for Time Series, Introduction to Explainable Machine Learning, Pattern Analysis, Optimization for Engineers
+
+**M.Sc. in Computational Engineering, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2019 – 10/2021**  
 - Switched to M.Sc. in Artificial Intelligence
+
 **Bachelor of Technology in Mechanical Engineering, Biju Patnaik University of Technology, India, 07/2014 – 04/2018**  
 - Grade: 8.61   
 ## Experience  
