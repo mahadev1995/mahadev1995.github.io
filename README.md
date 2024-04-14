@@ -8,8 +8,10 @@
 - Switched to M.Sc. in Artificial Intelligence
 
 **Bachelor of Technology in Mechanical Engineering, Biju Patnaik University of Technology, India, 07/2014 – 04/2018**  
-- Grade: 8.61   
+- Grade: 8.61
+   
 ## Experience  
+
 **Student Research Assistant, Fraunhofer IIS, Erlangen, 05/2021 – 02/2024**
 - Pioneered “SLIC”, a novel deep learning-based image compression network that achieves 7.5% less bitrate maintaining image quality with 50% less model complexity
 - Enhanced the Color Learning model performance by 61% through context model integration, entropy parameter estimation, etc.  
@@ -31,6 +33,7 @@
 - Analysed the data of blood units required and blood units collected in each state of India using Python
   
 ## Projects
+
 **FovEx: Foveation**-**based Explanations for Deep Neural Networks (Masters’ Thesis), 07/2023 – 03/2024**
 - Developed a state-of-the-art model agnostic explainable AI method for deep neural networks incorporating foveated human vision
 - Generated attribution maps for benchmark models such as ResNet-50 and ViT-B/16 on the ImageNet dataset
@@ -59,14 +62,17 @@
 - Deployed the trained model to a web interface with Flask and applied the model to real-time video streams and image data
   
 ## Publications
+
 - Prativadibhayankaram, Srivatsa, Mahadev Prasad Panda, Thomas Richter, Heiko Sparenberg, Siegfried Fößel, and André Kaup. “SLIC: A Learned Image Codec Using Structure and Color”. arXiv preprint [arXiv:2401.17246](https://arxiv.org/abs/2401.17246). (Accepted in Data Compression Conference (DCC)), 2024
 - Panda, Mahadev Prasad, Dario Zanca, Matteo Tiezzi, Martina Vilas, Gemma Roig, and Bjoern Eskofier. “FovEx: Model-Agnostic Foveation-based Visual Explanations for Deep Neural Networks”. European Conference on Computer Vision (ECCV) (Under Review), 2024
+
 ## **Skills**
-- **Programming**               Python, MATLAB
+|**Programming** | Python, MATLAB|
 - **Frameworks**                  PyTorch, TensorFlow, Optuna, Scikit-Learn, Matplotlib, Pandas, NumPy  
 - **Version** Control            Git
 - **Documentation**            MS Office, LaTeX      
 - **Language**                     English (Fluent), German (Basic), Odia (Mother Tongue)
+  
 ## **Achievements and Responsibilities**
 - Won third place out of thirty participating teams in The Tensor Tournament (T3) at FAU by successfully completing 3 machine learning tasks in 6 hours, 21/01/2023
 - Core member of the College Technical Club, Zairza - organized technical competitions like ‘Death Race 2k18’, ‘Death Race 2k17’ in the college technical fest ‘Perception’, 03/2015 – 03/2018
