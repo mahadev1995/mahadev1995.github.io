@@ -1,4 +1,4 @@
-# Deep Learning Engineer
+![image](https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/37ca7e14-c21d-436a-940e-3ac6f7334805)# Deep Learning Engineer
 ## Education  
 **M.Sc. in Artificial Intelligence, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2021 – 04/2024**  
 - Grade: 1.4    
@@ -64,21 +64,18 @@
 ## Publications
 
 - Prativadibhayankaram, Srivatsa, Mahadev Prasad Panda, Thomas Richter, Heiko Sparenberg, Siegfried Fößel, and André Kaup. “SLIC: A Learned Image Codec Using Structure and Color”. arXiv preprint [arXiv:2401.17246](https://arxiv.org/abs/2401.17246). (Accepted in Data Compression Conference (DCC)), 2024
-- Panda, Mahadev Prasad, Dario Zanca, Matteo Tiezzi, Martina Vilas, Gemma Roig, and Bjoern Eskofier. “FovEx: Model-Agnostic Foveation-based Visual Explanations for Deep Neural Networks”. European Conference on Computer Vision (ECCV) (Under Review), 2024
+- Panda, Mahadev Prasad, Dario Zanca, Matteo Tiezzi, Martina Vilas, Gemma Roig, and Bjoern Eskofier. “FovEx: Model-Agnostic Foveation-based Visual Explanations for Deep Neural Networks”. European Conference on Computer Vision (ECCV) (Under Review), 2024  
+## **Skills**  
+<img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/f06dbb79-f66e-48b0-94d5-6ef644bfd995" width="20" height="20"> <img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/c0b4c83b-48f7-41a9-8360-ee875d450c54" width="20" height="20"> <img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/b7bd51fe-0007-4d78-af78-07815e57a43f" width="20" height="20"> <img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/b6e19193-5759-40be-b90d-b27b49d170b6" width="20" height="20"> <img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/84fbc312-4b21-4dc7-8d3b-d016b3b6f513" width="20" height="20"> <img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/6df82822-f2d9-4f70-9ba9-b43a9e1a841b" width="20" height="20"> <img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/2faa1169-fd0e-4ae3-81ba-7b647dd06a43" width="20" height="20"> <img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/995d0294-1488-4917-bfdd-79a2269fc4ae" width="20" height="20"> <img src="https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/e1cc7098-0e5f-4461-8c1b-05f8df6954a3" width="20" height="20">
 
-## **Skills**
-
-**Programming** 
-  - Python, MATLAB  \
-**Frameworks**
-  - PyTorch, TensorFlow, Optuna, Scikit-Learn, Matplotlib, Pandas, NumPy  \    
-**Language**
-  - English (Fluent), German (Basic), Odia (Mother Tongue)\
-  
+## **Language**     
+   - English (Fluent), German (Basic), Odia (Mother Tongue)
+     
 ## **Achievements and Responsibilities**
 - Won third place out of thirty participating teams in The Tensor Tournament (T3) at FAU by successfully completing 3 machine learning tasks in 6 hours, 21/01/2023
 - Core member of the College Technical Club, Zairza - organized technical competitions like ‘Death Race 2k18’, ‘Death Race 2k17’ in the college technical fest ‘Perception’, 03/2015 – 03/2018
 - Organized and coordinated three inter-college football tournaments - ‘Engineers’ cup 2k16’, ‘Engineers’ cup 2k17’, ‘Engineers’ cup 2k18’, as a member of the college sports society, 01/2016 – 03/2018
+
 ## **Personal Links**
 - [**Email**](mailto:mppanda7896@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/mahadev-prasad-panda-ab012616b/)
