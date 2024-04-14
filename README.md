@@ -1,4 +1,4 @@
-![image](https://github.com/mahadev1995/mahadev1995.github.io/assets/51476618/37ca7e14-c21d-436a-940e-3ac6f7334805)# Deep Learning Engineer
+# Deep Learning Engineer
 ## Education  
 **M.Sc. in Artificial Intelligence, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2021 – 04/2024**  
 - Grade: 1.4    
