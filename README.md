@@ -1,10 +1,9 @@
 # Deep Learning Engineer
 ## Education
 
-**M.Sc. in Artificial Intelligence, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2021 – 04/2024**
- - Grade: 1.4 
- - **Key Courses:** Pattern Recognition, Deep Learning, Machine Learning for Time Series, Introduction to Explainable Machine Learning, Pattern Analysis, Optimization for Engineers
- 
+**M.Sc. in Artificial Intelligence, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2021 – 04/2024**  
+ - Grade: 1.4    
+ - **Key Courses:** Pattern Recognition, Deep Learning, Machine Learning for Time Series, Introduction to Explainable Machine Learning, Pattern Analysis, Optimization for Engineers  
 **M.Sc. in Computational Engineering, Friedrich Alexander University Erlangen-Nürnberg, Germany, 10/2019 – 10/2021**
 - Switched to M.Sc. in Artificial Intelligence
 **Bachelor of Technology in Mechanical Engineering, Biju Patnaik University of Technology, India, 07/2014 – 04/2018**
@@ -12,11 +11,11 @@
 ## Experience
 **Student Research Assistant, Fraunhofer IIS, Erlangen, 05/2021 – 02/2024**
 - Pioneered “SLIC”, a novel deep learning-based image compression network that achieves 7.5% less bitrate maintaining image quality with 50% less model complexity
-- Enhanced the Color Learning model performance by 61% through context model integration, entropy parameter estimation, etc.
-- Enabled continuous bitrate generation from a single model by implementing trainable gain and inverse gain units 
-- Facilitated inter-device operability of the deep learning-based compression models through quantization
-- Developed custom adversarial training in TensorFlow to improve background texture in compressed images 
-- Implemented and optimized various Variational Autoencoder-based models (Factorized prior and Hyperprior) in TensorFlow for image compression
+- Enhanced the Color Learning model performance by 61% through context model integration, entropy parameter estimation, etc.  
+- Enabled continuous bitrate generation from a single model by implementing trainable gain and inverse gain units   
+- Facilitated inter-device operability of the deep learning-based compression models through quantization  
+- Developed custom adversarial training in TensorFlow to improve background texture in compressed images  
+- Implemented and optimized various Variational Autoencoder-based models (Factorized prior and Hyperprior) in TensorFlow for image compression 
 **Student Research Assistant, Department of Mathematics at FAU Erlangen-Nürnberg, 12/2020 – 04/2021**
 - Worked on a model for fear propagation during a pandemic 
 - Created SIR model and modified SIR model for disease propagation
