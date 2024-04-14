@@ -69,11 +69,11 @@
 ## **Skills**
 
 **Programming** 
-  - Python, MATLAB  
+  - Python, MATLAB  \
 **Frameworks**
-  - PyTorch, TensorFlow, Optuna, Scikit-Learn, Matplotlib, Pandas, NumPy      
+  - PyTorch, TensorFlow, Optuna, Scikit-Learn, Matplotlib, Pandas, NumPy  \    
 **Language**
-  - English (Fluent), German (Basic), Odia (Mother Tongue)
+  - English (Fluent), German (Basic), Odia (Mother Tongue)\
   
 ## **Achievements and Responsibilities**
 - Won third place out of thirty participating teams in The Tensor Tournament (T3) at FAU by successfully completing 3 machine learning tasks in 6 hours, 21/01/2023
