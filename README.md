@@ -67,22 +67,8 @@
 - Panda, Mahadev Prasad, Dario Zanca, Matteo Tiezzi, Martina Vilas, Gemma Roig, and Bjoern Eskofier. “FovEx: Model-Agnostic Foveation-based Visual Explanations for Deep Neural Networks”. European Conference on Computer Vision (ECCV) (Under Review), 2024
 
 ## **Skills**
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
-
-| Column One    | Column Two    |                                                                                                                                                   
+                                                                                                                                                 
 | ---           | ---           |                                                                                                                                                   
-| data cell one | data cell two |  
 |**Programming** | Python, MATLAB|
 - **Frameworks**                  PyTorch, TensorFlow, Optuna, Scikit-Learn, Matplotlib, Pandas, NumPy  
 - **Version** Control            Git
